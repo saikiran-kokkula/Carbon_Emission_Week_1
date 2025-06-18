@@ -1,0 +1,1 @@
+This project demonstrates how to import, inspect, and clean a raw dataset using Python. It covers essential data cleaning techniques using **Pandas**, and prepares the data for further analysis or machine learning tasks.
